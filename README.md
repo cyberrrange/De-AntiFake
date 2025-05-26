@@ -1,7 +1,16 @@
 # De-AntiFake: Rethinking the Protective Perturbations Against Voice Cloning Attacks
-This is the official code implementation of paper *De-AntiFake: Rethinking the Protective Perturbations Against Voice Cloning Attacks*
+
+Source code for paper *De-AntiFake: Rethinking the Protective Perturbations Against Voice Cloning Attacks*
+
 by _Wei Fan, Kejiang Chen, Chang Liu, Weiming Zhang, and Nenghai Yu_ 
+
 In [International Conference on Machine Learning (ICML) 2025](https://icml.cc/Conferences/2025).
+
+## TODO List
+- [ ] Clean up code
+- [ ] Upload code (training and test)
+- [ ] Upload model checkpoints
+- [ ] Write introduction (data preparation, environments, etc.)
 
 ## Introduction
 
