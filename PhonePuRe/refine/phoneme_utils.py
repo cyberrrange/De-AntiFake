@@ -125,7 +125,7 @@ def run_command_in_conda_env(env_name, command):
     current_env = os.environ.get('CONDA_PREFIX')
 
     
-    full_command = ['conda', 'run', '-n', env_name] + command.split()
+    full_command = f'conda run -n {env_name} {command}'
     logger.info(full_command)
     try:
         result = subprocess.run(full_command, shell=True, executable='/bin/bash', check=True, capture_output=True, text=True)
