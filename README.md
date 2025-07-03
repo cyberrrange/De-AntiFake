@@ -22,7 +22,7 @@ In this repository, we provide the complete code for training and testing the Pu
 - [x] **Our Proposed PhonePuRe**: see [PhonePuRe](https://github.com/cyberrrange/de-antifake/tree/main/PhonePuRe) for details.
 
 
-- [ ] **Robustness Evaluation**: see [robustness_evaluation](https://github.com/cyberrrange/de-antifake/tree/main/robustness_evaluation) for details. (**Note**: We will update it soon.)
+- [ ] **Robustness Evaluation**: see [robustness_eval](https://github.com/cyberrrange/de-antifake/tree/main/robustness_eval) for details. (**Note**: We will update it soon.)
 
 ## 🧊Installation
 To run the code, you need to set up the environment and install the required dependencies:
