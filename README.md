@@ -4,16 +4,16 @@ Source code for paper *De-AntiFake: Rethinking the Protective Perturbations Agai
 
 by _Wei Fan, Kejiang Chen, Chang Liu, Weiming Zhang, and Nenghai Yu_ 
 
-In [International Conference on Machine Learning (ICML) 2025](https://icml.cc/Conferences/2025).
+In [International Conference on Machine Learning (ICML) 2025](https://icml.cc/virtual/2025/poster/45768).
 
 Visit our [website](https://de-antifake.github.io/) for audio samples.
 
 ## TODO List
 - [x] Upload code (training, test and data preprocessing)
-- [ ] Upload robustness evaluation code
-- [ ] Upload evaluation data
 - [x] Upload model checkpoints
 - [x] Write introduction (data preparation, environments, etc.)
+- [ ] Upload robustness evaluation code
+- [ ] Upload evaluation data
 
 ## 🔶Introduction
 
