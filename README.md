@@ -1,6 +1,6 @@
-# 🔓De-AntiFake: Rethinking the Protective Perturbations Against Voice Cloning Attacks
+# De-AntiFake: Rethinking the Protective Perturbations Against Voice Cloning Attacks
 
-Source code for paper *[De-AntiFake: Rethinking the Protective Perturbations Against Voice Cloning Attacks](https://arxiv.org/pdf/2507.02606)*
+Source code for [paper](https://arxiv.org/pdf/2507.02606) “De-AntiFake: Rethinking the Protective Perturbations Against Voice Cloning Attacks”.
 
 by _Wei Fan, Kejiang Chen, Chang Liu, Weiming Zhang, and Nenghai Yu_ 
 
@@ -80,7 +80,7 @@ If you want to **train** the Purification and Refinement model:
 
 You can also prepare your own dataset, but make sure to follow the similar data structure as the instruction. 
 
-## Adaptive Protection
+## 🎭Adaptive Protection
 We also provide the code for adaptive protection against voice cloning attacks, which can be used to evaluate the robustness of our model or other purification models. See **[robustness_eval](https://github.com/cyberrrange/de-antifake/tree/main/PhonePuRe/robustness_eval)** for details.
 
 ## Acknowledgments
