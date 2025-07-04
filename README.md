@@ -51,8 +51,8 @@ The script `data_preprocess/find_libri_speech_transcript.py` can be used to find
 - **Download checkpoints**. The parameter files used in our work are available at [Google Drive](https://drive.google.com/drive/folders/1jr6D96cVTS9qOQAUQHkHKdNuIGYVwf3X?usp=sharing). Download the checkpoints and place them in the `checkpoints` directory. The directory structure should look like this:
   ```
   checkpoints/
-  ├── purification.pth
-  └── refinement.pt
+  ├── purification.pkl
+  └── refinement.ckpt
   ```
 - **Run the inference script**. You can run the inference script to test the model:
   ```bash
