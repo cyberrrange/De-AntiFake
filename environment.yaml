@@ -1,4 +1,4 @@
-name: scorepure
+name: phonepure
 channels:
   - conda-forge
   - torch

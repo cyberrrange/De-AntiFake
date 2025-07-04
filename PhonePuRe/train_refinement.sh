@@ -1,4 +1,6 @@
-cd refine
+DEANTIFAKE_ROOT=/path/to/De-AntiFake
+PHONEPURE_ROOT=$DEANTIFAKE_ROOT/PhonePuRe
+cd $PHONEPURE_ROOT/refinement_models
 #export CUDA_HOME=/app/cuda/cuda-11.3
 gpu_id=0
 gpu_num=1
