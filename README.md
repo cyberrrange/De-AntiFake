@@ -85,7 +85,7 @@ We also provide the code for adaptive protection against voice cloning attacks, 
 
 ## Acknowledgments
 
-Our work builds upon several open-source repositories. 
+This repository is inspired by and incorporates code from various projects:
 - The core of our implementation adapts code from [DiffWave](https://github.com/philsyn/DiffWave-unconditional), [AudioPure](https://github.com/cychomatica/AudioPure), [DualPure](https://github.com/Sec4ai/DualPure), [StoRM](https://github.com/sp-uhh/storm) and [DMSE4TTS](https://github.com/dmse4tts/DMSE4TTS).
 - For adaptive protection, we utilized concepts from [AttackVC](https://github.com/cyhuang-tw/attack-vc) and [AntiFake](https://github.com/WUSTL-CSPL/AntiFake). 
 - The target voice cloning models were implemented with reference to [Real-Time Voice Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning), [OpenVoice V2](https://github.com/myshell-ai/OpenVoice), [YourTTS](https://github.com/Edresson/YourTTS) and [TorToiSe](https://github.com/neonbjb/tortoise-tts). 
