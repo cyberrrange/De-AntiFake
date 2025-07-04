@@ -1,4 +1,4 @@
-# De-AntiFake: Rethinking the Protective Perturbations Against Voice Cloning Attacks
+# <img src="icon.png" alt="De-AntiFake Icon" style="height: 1.1em; width: auto; vertical-align: top; margin-right: 0.2em;">De-AntiFake: Rethinking the Protective Perturbations Against Voice Cloning Attacks
 
 Source code for [paper](https://arxiv.org/pdf/2507.02606) “De-AntiFake: Rethinking the Protective Perturbations Against Voice Cloning Attacks”.
 
