@@ -6,7 +6,7 @@ by _Wei Fan, Kejiang Chen, Chang Liu, Weiming Zhang, and Nenghai Yu_
 
 In [International Conference on Machine Learning (ICML) 2025](https://icml.cc/virtual/2025/poster/45768).
 
-Visit our [<img src="icon.png" alt="De-AntiFake Icon" style="height: 1.1em; width: auto; vertical-align: middle; margin-right: 0.2em;">project page](https://de-antifake.github.io/) for audio samples.
+Visit our [project page](https://de-antifake.github.io/) for audio samples.
 
 ## 🔶Introduction
 
