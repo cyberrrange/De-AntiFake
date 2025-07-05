@@ -1,4 +1,4 @@
-# <img src="icon.png" alt="De-AntiFake Icon" style="height: 1.1em; width: auto; vertical-align: top; margin-right: 0.2em;">De-AntiFake: Rethinking the Protective Perturbations Against Voice Cloning Attacks
+# [<img src="icon.png" alt="De-AntiFake Icon" style="height: 1.1em; width: auto; vertical-align: top; margin-right: 0.2em;">](https://de-antifake.github.io/) De-AntiFake: Rethinking the Protective Perturbations Against Voice Cloning Attacks
 
 Source code for [paper](https://arxiv.org/pdf/2507.02606) “De-AntiFake: Rethinking the Protective Perturbations Against Voice Cloning Attacks”.
 
@@ -6,7 +6,7 @@ by _Wei Fan, Kejiang Chen, Chang Liu, Weiming Zhang, and Nenghai Yu_
 
 In [International Conference on Machine Learning (ICML) 2025](https://icml.cc/virtual/2025/poster/45768).
 
-Visit our [website](https://de-antifake.github.io/) for audio samples.
+Visit our [<img src="icon.png" alt="De-AntiFake Icon" style="height: 1.1em; width: auto; vertical-align: middle; margin-right: 0.2em;">project page](https://de-antifake.github.io/) for audio samples.
 
 ## 🔶Introduction
 
