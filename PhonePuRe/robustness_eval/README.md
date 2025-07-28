@@ -40,7 +40,7 @@ bash non_adaptive_protection.sh
 
 Key parameters in `non_adaptive_protection.sh`:
 - `target_vc_method`: The target voice cloning model. Supported options are:
-    - `rtvc`: [Real-Time Voice Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) and [DiffVC](https://github.com/agoyr/DiffVC/tree/feature/uniform/DiffVC) (they share the same speaker encoder).
+    - `rtvc`: [SV2TTS](https://github.com/CorentinJ/Real-Time-Voice-Cloning) and [DiffVC](https://github.com/agoyr/DiffVC/tree/feature/uniform/DiffVC) (they share the same speaker encoder).
     - `openvoice`: [OpenVoice V2](https://github.com/myshell-ai/OpenVoice)
     - `coqui`: [YourTTS](https://github.com/Edresson/YourTTS)
     - `tortoise`: [TorToiSe](https://github.com/neonbjb/tortoise-tts)
