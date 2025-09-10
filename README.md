@@ -32,7 +32,16 @@ To run the code, you need to set up the environment and install the required dep
   conda env create -f environment.yaml
   conda activate phonepure
   ```
-- **Install MFA** to generate the phoneme alignment files for inference. You can **create a new conda environment named `aligner`** and install MFA in it (follow the instructions in the [MFA documentation](https://montreal-forced-aligner.readthedocs.io/en/latest/installation.html)). The environment name `aligner` here **will be used in the inference script**.
+  Then use `install_requirements.sh` to install the required pip packages:
+  ```bash
+  bash install_requirements.sh
+  ```
+  It will first install the PyTorch packages with CUDA 11.6 support (you can modify the `requirements_torch.txt` file to change the versions), and then install other dependencies from `requirements.txt`.
+- **Create a new conda environment named `aligner` and install MFA** to generate the phoneme alignment files for inference:
+  ```bash
+  conda create -n aligner -c conda-forge montreal-forced-aligner=3.2.1
+  ```
+  Alternatively, you can follow the instructions in the [MFA documentation](https://montreal-forced-aligner.readthedocs.io/en/latest/installation.html). The environment name `aligner` here **will be used in the inference script**.
 
 
 ## 🍷Use Our Pre-trained Model
